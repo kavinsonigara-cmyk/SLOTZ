@@ -1,0 +1,7 @@
+{
+  "name": "Slotz",
+  "description": "A comprehensive academic project management tool for designers and students, featuring AI-powered design estimation, faculty scheduling, and material cost comparison.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
